@@ -1,1 +1,3 @@
-# git_test
+# git_test 
+My first git repos at midnight...more or less...
+Hello Odin!
